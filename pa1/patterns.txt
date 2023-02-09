@@ -1,0 +1,51 @@
+Breakfast & Brunch:1369American (Traditional):2416Restaurants:25071Sandwiches:2364Local Services:3468Italian:1848Food:9250Coffee & Tea:2199Fast Food:2851Home Services:4785Real Estate:1424Bars:4328Sports Bars:818Nightlife:5088American (New):1593Automotive:4208Grocery:1424Event Planning & Services:2975Shopping:11233Home & Garden:1586Auto Repair:1716Burgers:1774Pizza:2657Beauty & Spas:6583Active Life:3103Ice Cream & Frozen Yogurt:1018Hair Salons:2091Doctors:1694Health & Medical:5121Arts & Entertainment:2271Cafes:1002Bakeries:1115Hotels & Travel:2495Hotels:1431Fitness & Instruction:1442Nail Salons:1667Fashion:3078Chinese:1629Women's Clothing:1138Pet Services:870Pets:1497Specialty Food:1150Mexican:2515Pubs:874Sushi Bars:798Japanese:848Professional Services:1025Financial Services:875Dentists:1195General Dentistry:8231369:Breakfast & Brunch;Restaurants
+2416:American (Traditional);Restaurants
+2364:Restaurants;Sandwiches
+1848:Restaurants;Italian
+2101:Restaurants;Food
+2851:Fast Food;Restaurants
+2423:Restaurants;Bars
+2533:Nightlife;Restaurants
+1593:American (New);Restaurants
+1774:Burgers;Restaurants
+2657:Restaurants;Pizza
+1002:Restaurants;Cafes
+1629:Restaurants;Chinese
+2515:Mexican;Restaurants
+798:Restaurants;Sushi Bars
+848:Restaurants;Japanese
+2199:Coffee & Tea;Food
+1424:Grocery;Food
+1018:Ice Cream & Frozen Yogurt;Food
+1115:Bakeries;Food
+1150:Specialty Food;Food
+774:Fast Food;Burgers
+1424:Home Services;Real Estate
+818:Bars;Sports Bars
+4328:Nightlife;Bars
+874:Pubs;Bars
+818:Nightlife;Sports Bars
+874:Nightlife;Pubs
+1716:Automotive;Auto Repair
+1471:Hotels & Travel;Event Planning & Services
+1431:Hotels;Event Planning & Services
+1586:Shopping;Home & Garden
+3078:Shopping;Fashion
+1138:Shopping;Women's Clothing
+2091:Hair Salons;Beauty & Spas
+1667:Nail Salons;Beauty & Spas
+1442:Fitness & Instruction;Active Life
+1694:Doctors;Health & Medical
+1195:Dentists;Health & Medical
+823:General Dentistry;Health & Medical
+1431:Hotels & Travel;Hotels
+1138:Women's Clothing;Fashion
+870:Pets;Pet Services
+823:Dentists;General Dentistry
+774:Fast Food;Restaurants;Burgers
+818:Nightlife;Bars;Sports Bars
+823:Dentists;General Dentistry;Health & Medical
+874:Nightlife;Pubs;Bars
+2423:Nightlife;Restaurants;Bars
+1138:Shopping;Women's Clothing;Fashion
+1431:Hotels & Travel;Hotels;Event Planning & Services
